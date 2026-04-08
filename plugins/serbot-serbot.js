@@ -1,4 +1,4 @@
-const { fetchLatestBaileysVersion, useMultiFileAuthState, DisconnectReason } = await import('@whiskeysockets/baileys')
+const { fetchLatestBaileysVersion, useMultiFileAuthState, DisconnectReason } = await import('flibu-baileys-official')
 import qrcode from 'qrcode'
 import fs from 'fs'
 import pino from 'pino'
