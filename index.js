@@ -10,7 +10,7 @@ import cfonts from 'cfonts'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const require = createRequire(__dirname)
 
-cfonts.say('Ai\nHoshino', {
+cfonts.say('bot\nsenku', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
@@ -51,4 +51,4 @@ async function start(files) {
   }
 }
 
-start(['starlights.js'])
+start(['senku.js'])
