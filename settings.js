@@ -20,12 +20,12 @@ global.prems = []
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = ``
-global.author = '{\n "bot": {\n   "name": "senku bot",\n     "author": "ahmed aligue ダーク",\n }\n}'
-global.wait = '🐢 *tsna xwiya ... ฅ^•ﻌ•^ฅ*'
-global.botname = '✯ senku bot ✰'
-global.textbot = `Powered By ahmed algue`
-global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
-global.namechannel = '【 ✯ dada ahmed ✰ 】'
+global.author = 'ahmmm'
+global.wait = 'senku'
+global.botname = 'senku bot'
+global.textbot = `Powered By ahmed`
+global.listo = 'haaaak'
+global.namechannel = 'tst channel'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
