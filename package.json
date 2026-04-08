@@ -1,9 +1,9 @@
 {
-	"name": "Ai Hoshino",
-	"version": "6.0.0",
-	"description": "Simple WhatsApp Bot Multi Device",
+	"name": "senku bot",
+	"version": "0.1",
+	"description": "WhatsApp Bot Multi Device",
 	"main": "index.js",
-	"type": "module",
+	"type": "ESM modulle",
 	"directories": {
 		"lib": "lib",
 		"plugins": "plugins"
@@ -23,16 +23,16 @@
 		"MD",
 		"baileys-md"
 	],
-	"homepage": "https://github.com/StarlightsTeam/Ai-Hoshino",
+	"homepage": "https://github.com/Ahmedaligue/SENKUMD",
 	"author": {
-		"name": "ahmed aligue ダーク⁩"
+		"name": "ahmed aligue"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/StarlightsTeam/Ai-Hoshino.git"
+		"url": "git+https://github.com/Ahmedaligue/SENKUMD.git"
 	},
 	"bugs": {
-		"url": "https://github.com/StarlightsTeam/Ai-Hoshino/issues"
+		"url": "https://github.com/Ahmedaligue/SENKUMD/issues"
 	},
 	"license": "GPL-3.0-or-later",
 	"dependencies": {
