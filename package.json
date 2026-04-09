@@ -39,6 +39,7 @@
 		"@bochilteam/scraper": "^4.2.4",
 		"@google/generative-ai": "^0.24.1",
 		"@ibaraki-douji/pixivts": "^2.4.1",
+		"@whiskeysockets/baileys": "git+ssh://git@github.com/BrunoSobrino/Baileys-Itsukichann.git",
 		"@StarlightsTeam/Scraper": "github:IrokzDal/Scraper",
 		"acrcloud": "*",
 		"awesome-phonenumber": "^3.4.0",
